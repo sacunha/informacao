@@ -1,0 +1,25 @@
+﻿#EXTM3U
+#EXTINF:-1,*-*-* INFORMAÇÃO *-*-*
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/7882.ts
+#EXTINF:-1,RTP 3 LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/16156.ts
+#EXTINF:-1,RTP 3
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/676.ts
+#EXTINF:-1,Sic Noticias LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/16154.ts
+#EXTINF:-1,SIC Noticias
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/674.ts
+#EXTINF:-1,TVI 24 LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/16155.ts
+#EXTINF:-1,TVI 24
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/24.ts
+#EXTINF:-1,CMTV LB
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/16153.ts
+#EXTINF:-1,CMTV
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/675.ts
+#EXTINF:-1,CMTV HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/8447.ts
+#EXTINF:-1,CNN
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/7834.ts
+#EXTINF:-1,France 24 HD
+http://zappingiptv.info:8080/live/SebastiaoCunha/REplGRXhzp/268.ts
